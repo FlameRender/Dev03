@@ -50,7 +50,7 @@ body{
     height:200px;
   width:150px;
      margin-left: 10px;
-  position: sticky;
+  position: fixed;
   left: 80%;
   top: 450px;
 }
